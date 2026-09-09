@@ -237,3 +237,6 @@ This repository serves as the official landing page for Free Mouse Auto Clicker.
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Free Mouse Auto Clicker today!**
+
+---
+**Last updated:** 2026-09-09 14:18:44 UTC
